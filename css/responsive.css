@@ -1,0 +1,970 @@
+@media (min-width:320px) and (max-width:576px){
+  nav .navbar-brand img{
+    width: 100px;
+  }
+  nav .input-group{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .nav-button {
+    display: flex;
+    margin-top: 10px;
+}
+.input-group-text span{
+  display: none;
+}
+.carousel-item img{
+  margin-bottom: 10px;
+}
+
+#banner .carousel-indicators {
+  bottom: 30px;
+  
+}
+.main {
+  justify-content: center;
+}
+#popular .item {
+  margin-bottom: 20px;
+}
+
+
+#popular .item h3 {
+ 
+  font-size: 25px;
+ 
+}
+#popular .item2 h3 {
+ 
+  font-size: 25px;
+}
+.books-part2 {
+  margin-left: -26px;
+}
+
+#book{
+  display: none;
+}
+#booksale{
+  display: block
+}
+#booksale .subtitle h1 {
+  
+  font-size: 30px;
+ 
+}
+
+#booksale .carousel-control-next {
+  margin-top:-78px;
+}
+
+#booksale .carousel-control-prev{
+  margin-left: -137px;
+  margin-top: 29px;
+}
+#special .manicard {
+  width: 100%;
+ 
+}
+span del{
+  margin-left: 5px;
+}
+.title h1 {
+ 
+  font-size: 30px;
+ 
+}
+.title p {
+ 
+  font-size: 12px;
+ 
+  margin: -13px auto;
+
+}
+
+.cardbutton i{
+  width: 13px;
+  height: 12px;
+}
+#special .carousel-control-prev {
+  
+  display: none;
+}
+
+#special .carousel-control-prev {
+  
+  display: none;
+}
+
+#special .carousel-control-next {
+  display: none;
+}
+
+#book .carousel-control-prev {
+  
+  display: none;
+}
+
+#book .carousel-control-next {
+  display: none;
+}
+#book .carousel-indicators {
+  
+  display: none;
+}
+
+.cardbody{
+  margin-bottom: 31px;
+}
+#popular{
+  display: none;
+}
+#popularmobile{
+  display: block;
+}
+
+#popularmobile .item h3 {
+  
+  font-size: 20px;
+  
+}
+
+#popularmobile .item2 h3 {
+ 
+  font-size: 20px;
+ 
+}
+#popularmobile .item p{
+  font-size: 12px;
+}
+#popularmobile .item2 p {
+
+  font-size: 12px;
+ 
+}
+#popularmobile .item{
+  margin-bottom: 30px;
+}
+
+#special .cardbutton a {
+    column-gap: 12px;
+    font-size: 15px;
+   
+}
+
+#flash {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#flash .price {
+    margin-bottom: 20px;
+    margin-left: -30px;
+    margin-top: 3px;
+}
+
+#book .subtitle h1 {
+    font-size: 30px;
+    margin-bottom: 44px;
+}
+#book .item .reating-price .price {
+   
+    margin-left: 50px;
+}
+
+.reating-price{
+margin-bottom: 20px;
+}
+
+#book {
+  margin-bottom: 50px;
+}
+
+.battle-drive {
+ 
+  width: 363px;
+  height: 482px;
+
+}
+.battle-drive .battle-img {
+  margin-top: 39px;
+  margin-left: 76px;
+}
+
+.battle-img img {
+ 
+  display: none;
+}
+
+#featured {
+  padding: -2px 0;
+}
+#featured .subtitle p {
+ 
+  width: 350px;
+}
+
+.battle-drive {
+  width: 363px;
+  height: 541px;
+}
+.battle-drive .icon {
+  margin-top: -25px;
+ 
+}
+
+.battle-title {
+  margin-left: 107px;
+  margin-top: -113px;
+}
+.synopsis h5 {
+  margin-left: 10px;
+  margin-top: -22px;
+}
+.synopsis p {
+ 
+  margin-top: 3px;
+  padding-right: 21px;
+  margin-left: 13px;
+}
+
+.writing {
+  
+  margin-top: 5px;
+}
+.writing span{
+  margin-left: 13px;
+}
+.writing h4{
+  margin-left: 11px;
+}
+
+.price {
+ 
+  margin-top: -5px;
+  margin-left: -14px;
+}
+
+#letest {
+  margin-top: 80px;
+}
+#letest .letest-title h2 {
+  font-size: 20px;
+}
+
+#letest .letest-title p{
+padding-right: 50px;
+}
+.rowclass {
+ 
+  margin-top: 36px;
+}
+
+.input-box input{
+  padding: 15px;
+}
+
+.input-box span{
+  padding: 15px;
+}
+.social-icon {
+ margin: 0;
+}
+#letest .top-work {
+  margin-right: 71px;
+}
+.view-btn a{
+  font-size: 10px;
+}
+#flash .time h3 {
+ 
+  font-size: 33px;
+ 
+}
+#flash .time p {
+ 
+  margin-top: 39px;
+  margin-left: -96px;
+}
+.view-btn span i {
+  margin-right: 6px;
+}
+.letest-card {
+  margin-top: 50px;
+}
+
+
+.letest-title p {
+  font-size: 10px;
+
+}
+.all-icon{
+  margin-top: -108px;
+}
+#footer {
+  margin-top: 20px;
+}
+}
+
+
+@media (min-width:576px) and (max-width:768px){
+  nav .navbar-brand img{
+    width: 100px;
+  }
+  nav .input-group{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .nav-button {
+    display: flex;
+    margin-top: 10px;
+}
+
+.carousel-item img{
+  margin-bottom: 10px;
+}
+
+#banner .carousel-indicators {
+  bottom: 30px;
+  
+}
+.main {
+  justify-content: center;
+}
+#popular .item {
+  margin-bottom: 20px;
+}
+
+#special .cardbutton h2 {
+ 
+  margin-left: 0;
+}
+#popular .item h3 {
+ 
+  font-size: 25px;
+ 
+}
+#popular .item2 h3 {
+ 
+  font-size: 25px;
+}
+.books-part2 {
+  margin-left: -26px;
+}
+
+#book{
+  display: none;
+}
+#booksale{
+  display: block
+}
+#booksale .subtitle h1 {
+  
+  font-size: 50px;
+ 
+}
+
+#booksale .carousel-control-next {
+  margin-top:-78px;
+}
+
+#booksale .carousel-control-prev{
+  margin-left: -115px;
+  margin-top: 29px;
+}
+
+#featured span del{
+  margin-left: -123px;
+}
+#featured .price .main-price{
+  margin-left: -12px;
+}
+.title h1 {
+ 
+  font-size: 50px;
+ 
+}
+.title p {
+ 
+  font-size: 20px;
+  margin: -13px auto;
+
+}
+
+.cardbutton i{
+  width: 13px;
+  height: 12px;
+}
+#special .carousel-control-prev {
+  
+  display: none;
+}
+
+#special .carousel-control-prev {
+  
+  display: none;
+}
+
+#special .carousel-control-next {
+  display: none;
+}
+
+#book .carousel-control-prev {
+  
+  display: none;
+}
+
+#book .carousel-control-next {
+  display: none;
+}
+#book .carousel-indicators {
+  
+  display: none;
+}
+
+.cardbody{
+  margin-bottom: 31px;
+}
+#popular{
+  display: block;
+}
+#popularmobile{
+  display: none;
+}
+
+#popularmobile .item h3 {
+  
+  font-size: 20px;
+  
+}
+
+#popularmobile .item2 h3 {
+ 
+  font-size: 20px;
+ 
+}
+#popularmobile .item p{
+  font-size: 12px;
+}
+#popularmobile .item2 p {
+
+  font-size: 12px;
+ 
+}
+#popularmobile .item{
+  margin-bottom: 30px;
+}
+
+#special .cardbutton a {
+    column-gap: 12px;
+    font-size: 15px;
+   
+}
+
+#flash {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#flash .price {
+    margin-bottom: 20px;
+    margin-left: -30px;
+    margin-top: 3px;
+}
+
+#book .subtitle h1 {
+    font-size: 50px;
+    margin-bottom: 44px;
+}
+#book .item .reating-price .price {
+   
+    margin-left: 50px;
+}
+
+.reating-price{
+margin-bottom: 20px;
+}
+
+#book {
+  margin-bottom: 50px;
+}
+
+.battle-drive {
+ 
+  width:600px;
+  height: 482px;
+
+}
+.battle-drive .battle-img {
+  margin-top: 39px;
+  margin-left: 76px;
+}
+
+.battle-img img {
+ 
+  display: none;
+}
+
+#featured {
+  padding: -2px 0;
+}
+#featured .subtitle p {
+ 
+  width: 350px;
+}
+
+
+.battle-drive .icon {
+  margin-top: -25px;
+ 
+}
+
+.battle-title {
+  margin-left: 107px;
+  margin-top: -113px;
+}
+.synopsis h5 {
+  margin-left: 10px;
+  margin-top: -22px;
+}
+.synopsis p {
+ 
+  margin-top: 3px;
+  padding-right: 21px;
+  margin-left: 13px;
+}
+
+.writing {
+  
+  margin-top: 5px;
+}
+.writing span{
+  margin-left: 13px;
+}
+.writing h4{
+  margin-left: 11px;
+}
+
+.price {
+ 
+  margin-top: 36px;
+  margin-left: -58px;
+}
+
+#letest {
+  margin-top: 80px;
+}
+#letest .letest-title h2 {
+  font-size: 50px;
+}
+
+#letest .letest-title p{
+padding-right: 50px;
+}
+.rowclass {
+ 
+  margin-top: 36px;
+}
+
+.input-box input{
+  padding: 15px 121px;
+}
+
+.input-box span{
+  padding: 15px;
+}
+.social-icon {
+ margin: 0;
+}
+#letest .top-work {
+  margin-right: 71px;
+}
+.view-btn a{
+  font-size: 15px;
+}
+#flash .time h3 {
+ 
+  font-size: 33px;
+ 
+}
+#flash .time p {
+ 
+  margin-top: 39px;
+  margin-left: -123px;
+}
+.view-btn span i {
+  margin-right: 6px;
+}
+.letest-card {
+  margin-top: 50px;
+}
+.letest-card p {
+  
+  padding-right: 263px;
+}
+
+.letest-title p {
+  font-size: 15px;
+
+}
+.all-icon{
+  margin-top: -108px;
+}
+#footer {
+  margin-top: 20px;
+}
+}
+
+
+@media (min-width:768px) and (max-width:992px){
+  nav .navbar-brand img{
+    width: 100px;
+  }
+  nav .input-group{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .nav-button {
+    display: flex;
+    margin-top: 10px;
+}
+
+.carousel-item img{
+  margin-bottom: 10px;
+}
+
+#banner .carousel-indicators {
+  bottom: 30px;
+  
+}
+.main {
+  justify-content: center;
+}
+#popular .item {
+  margin-bottom: 20px;
+}
+
+
+#popular .item h3 {
+ 
+  font-size: 25px;
+ 
+}
+#popular .item2 h3 {
+ 
+  font-size: 25px;
+}
+.books-part2 {
+  margin-left: -26px;
+}
+
+#book{
+  display: none;
+}
+#booksale{
+  display: block
+}
+#booksale .subtitle h1 {
+  
+  font-size: 50px;
+ 
+}
+
+#booksale .carousel-control-next {
+  margin-top:-78px;
+}
+
+#booksale .carousel-control-prev{
+  margin-left: -75px;
+  margin-top: 29px;
+}
+
+
+span del{
+  margin-left: 5px;
+}
+.title h1 {
+ 
+  font-size: 50px;
+ 
+}
+.title p {
+ 
+  font-size: 20px;
+  margin: -13px auto;
+
+}
+
+.cardbutton i{
+  width: 13px;
+  height: 12px;
+}
+#special .carousel-control-prev {
+  
+  display: none;
+}
+
+#special .carousel-control-prev {
+  
+  display: none;
+}
+
+#special .carousel-control-next {
+  display: none;
+}
+
+#book .carousel-control-prev {
+  
+  display: none;
+}
+
+#book .carousel-control-next {
+  display: none;
+}
+#book .carousel-indicators {
+  
+  display: none;
+}
+
+.cardbody{
+  margin-bottom: 31px;
+}
+#popular{
+  display: block;
+}
+#popularmobile{
+  display: none;
+}
+
+#popularmobile .item h3 {
+  
+  font-size: 20px;
+  
+}
+
+#popularmobile .item2 h3 {
+ 
+  font-size: 20px;
+ 
+}
+#popularmobile .item p{
+  font-size: 12px;
+}
+#popularmobile .item2 p {
+
+  font-size: 12px;
+ 
+}
+#popularmobile .item{
+  margin-bottom: 30px;
+}
+
+#special .cardbutton a {
+    column-gap: 12px;
+    font-size: 15px;
+   
+}
+
+#flash {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#flash .price {
+    margin-bottom: 20px;
+    margin-left: -30px;
+    margin-top: 3px;
+}
+
+#book .subtitle h1 {
+    font-size: 50px;
+    margin-bottom: 44px;
+}
+#book .item .reating-price .price {
+   
+    margin-left: 50px;
+}
+
+.reating-price{
+margin-bottom: 20px;
+}
+
+#book {
+  margin-bottom: 50px;
+}
+
+.battle-right{
+  margin-top: -396px;
+  margin-left: 366px;
+}
+.battle-drive{
+  background-color: #FFFFFF;
+  width: 762px;
+  height: 482px;
+  margin-top: 45px;
+  margin-left: -20px;
+  border-radius: 10px;
+  box-shadow: 0px 25px 33px 0px rgba(108, 93, 211, 0.25);
+}
+
+/* .battle-drive {
+ 
+  width: 363px;
+  height: 482px;
+
+}
+.battle-drive .battle-img {
+  margin-top: 39px;
+  margin-left: 76px;
+}
+
+.battle-img img {
+ 
+  display: none;
+} */
+
+#featured {
+  padding: -2px 0;
+}
+#featured .subtitle p {
+ 
+  width: 350px;
+}
+
+
+.battle-drive .icon {
+  margin-top: -25px;
+ 
+}
+
+.battle-title {
+  margin-left: 107px;
+  margin-top: -113px;
+}
+.synopsis h5 {
+  margin-left: 10px;
+  margin-top: -22px;
+}
+.synopsis p {
+ 
+  margin-top: 3px;
+  padding-right: 21px;
+  margin-left: 13px;
+}
+
+.writing {
+  
+  margin-top: 5px;
+}
+.writing span{
+  margin-left: 13px;
+}
+.writing h4{
+  margin-left: 11px;
+}
+
+.price {
+ 
+  margin-top: -5px;
+  margin-left: -14px;
+}
+
+#letest {
+  margin-top: 80px;
+}
+#letest .letest-title h2 {
+  font-size: 50px;
+}
+
+#letest .letest-title p{
+padding-right: 50px;
+}
+.rowclass {
+ 
+  margin-top: 36px;
+}
+
+.input-box input{
+  padding: 15px 121px;
+}
+
+.input-box span{
+  padding: 15px;
+}
+.social-icon {
+ margin: 0;
+}
+#letest .top-work {
+  margin-right: 71px;
+}
+.view-btn a{
+  font-size: 15px;
+}
+#flash .time h3 {
+ 
+  font-size: 33px;
+ 
+}
+#flash .time p {
+ 
+  margin-top: 39px;
+  margin-left: -123px;
+}
+.view-btn span i {
+  margin-right: 6px;
+}
+.letest-card {
+  margin-top: 50px;
+}
+.letest-card p {
+  
+  padding-right: 263px;
+}
+
+.letest-title p {
+  font-size: 15px;
+
+}
+.all-icon{
+  margin-top: -108px;
+}
+#footer {
+  margin-top: 20px;
+}
+}
+
+
+
+@media (min-width:992px) and (max-width:1200px){
+
+.rowclass{
+  display: none;
+}
+
+.card-profile h4 {
+ 
+  margin-left: 18px;
+}
+.letest-card p{
+  margin-left: 18px;
+}
+#book .carousel-indicators {
+ 
+  bottom: 636px;
+ 
+}
+#book .carousel-control-prev {
+  
+  left: 82%;
+}
+#special .carousel-control-prev {
+ 
+  margin-left: 600px;
+ 
+}
+#special .carousel-control-next {
+ 
+  margin-right: 501px;
+ 
+}
+}
